@@ -1,5 +1,6 @@
 # Ex-9: Implementation-of-Q-learning-Control-algorithm
-
+### Name : Adhithya K
+### reg no : 2305002001
 ## Aim:
 
 To implement the Q-Learning Control Algorithm using the FrozenLake environment in Reinforcement Learning and learn the optimal policy through interaction with the environment.
